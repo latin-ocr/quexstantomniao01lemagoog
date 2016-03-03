@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quexstantomniao01lemagoog_0579.png"; bbox 0 0 715 1278; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 44 30 674 1224">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 44 30 674 1224">
+     <span class='ocr_line' id='line_1_1' title="bbox 44 30 674 1063; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 44 30 674 1063; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_2' title='bbox 335 1019 674 1063; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 45 1063 674 1224; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 45 1063 674 1224; x_wconf 95' lang='lat' dir='ltr'>    </span> <span class='ocrx_word' id='word_1_4' title='bbox 371 1108 674 1141; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 114 1030 371 1131">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 114 1030 350 1052">
+     <span class='ocr_line' id='line_1_3' title="bbox 114 1030 350 1052; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 114 1030 308 1052; x_wconf 43' lang='lat' dir='ltr'>§.rabban-firi.</span> <span class='ocrx_word' id='word_1_6' title='bbox 324 1040 350 1044; x_wconf 66' lang='grc' dir='ltr'>ι.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 114 1052 371 1131">
+     <span class='ocr_line' id='line_1_4' title="bbox 131 1052 368 1072; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 131 1057 154 1070; x_wconf 59' lang='grc' dir='ltr'>ἵ.</span> <span class='ocrx_word' id='word_1_8' title='bbox 158 1052 368 1072; x_wconf 56' lang='grc' dir='ltr'>ῆ-Ξῗ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 114 1072 369 1110; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 114 1072 261 1110; x_wconf 54' lang='grc' dir='ltr'>Ὴηῇξ.</span> <span class='ocrx_word' id='word_1_10' title='bbox 246 1073 369 1107; x_wconf 49' lang='lat' dir='ltr'>..raffau-1...-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 114 1111 371 1131; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 114 1111 371 1131; x_wconf 46' lang='lat' dir='ltr'>{flur-²331?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 369 1063 674 1108">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 369 1063 674 1108">
+     <span class='ocr_line' id='line_1_7' title="bbox 369 1063 674 1108; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 369 1063 674 1108; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
